@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Mochammad Farkhan**.\
+Perkenalkan nama saya **Mochammad Farkhan**.
 
 Saya seorang **mahasiswa** di Prodi Teknik Informatika UNRI
 
