@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Mochammad Farkhan**.
 
-Saya seorang **mahasiswa** di Prodi Teknik Informatika UNRI
+Saya seorang **mahasiswa** di Teknik Informatika S1 Universitas Riau
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mochammad-farkhan-033275194/)ku ya.
+
+Kamu bisa juga mengunjungi web portfolioku disini [link](https://mochammadfarkhan.github.io/).
 
 <p align="left">
 <a href="https://github.com/mochammadfarkhan">
